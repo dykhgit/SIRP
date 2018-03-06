@@ -1,0 +1,46 @@
+Solution                        status:      Optimal
+Run                               time:      13.034
+subtour                     cut Number:      594
+benders         optimal     cut Number:      581
+benders         infeasible  cut Number:      26
+fraction         subtour    cut Number:      95
+fraction benders optimal    cut Number:      0
+fraction benders infeasible cut Number:      0
+Optimal                          value:      2.78066
+MIP          Relative              Gap:      0
+period 1:
+0-->4-->10-->5-->8-->6-->7-->3-->1-->2-->9-->0
+Budget:        1346.09
+Cost:          1346.09
+
+period 2:
+0-->6-->8-->0
+Budget:        942.265
+Cost:          896.34
+
+period 3:
+0-->2-->1-->3-->7-->10-->0
+Budget:        942.265
+Cost:          937.954
+
+period 4:
+0-->4-->5-->10-->9-->0
+Budget:        942.265
+Cost:          833.809
+
+period 5:
+Budget:        942.265
+Cost:          0
+
+the Total cost is 4014.2
+Optimal alpha:
+0.0001       0.0001       0.0001       0.0001       
+0.0001       0.0001       0.0001       0.0001       
+0.0001       0.0001       0.0001       0.0001       
+0.0001       0.0001       0.0001       0.0001       
+0.0001       0.0001       0.0001       0.0001       
+0.0001       0.0001       0.0001       1.69012      
+0.0001       0.0001       0.0001       0.0001       
+0.0001       0.0001       0.0001       1.08675      
+0.0001       0.0001       0.0001       0.0001       
+0.0001       0.0001       0.0001       0.0001       
